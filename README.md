@@ -1,6 +1,3 @@
-Here's the revised GitHub description in English:
-
----
 
 # Proxmox Monitoring Script
 
@@ -53,6 +50,3 @@ This project is licensed under the GNU General Public License (GPL). This means 
 
 This project is still in development, and some features may not work as expected. I am continuously working to improve the script and welcome feedback and suggestions.
 
----
-
-This description is now in English and includes all the pertinent details.
